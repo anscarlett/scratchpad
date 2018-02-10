@@ -1,0 +1,2 @@
+@@https://www.netflix.com/watch/$document
+https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-5.0008.235.011.js
